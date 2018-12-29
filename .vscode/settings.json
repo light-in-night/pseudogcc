@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "regex.h": "c",
+        "stdio.h": "c",
+        "vector": "c"
+    }
+}
